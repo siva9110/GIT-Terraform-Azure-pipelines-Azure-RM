@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 variable "client_id" {
   type = string
 
@@ -52,7 +52,8 @@ variable "azurerm_virtual_network" {
   type = string
 
 }
-=======
+
+
 variable "client_id" {
   type = string
 
