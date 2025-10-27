@@ -15,7 +15,7 @@ provider "azurerm" {
      storage_account_name = "teststorageforsiva"
      container_name       = "testcont"
      key                  = "terraform.tfstate"
-  access_key              = "#hTzXJL3wJewsQdPDgqw6ymdr3BQ2DOdcKcg17Jh9wyJLeE07AHVEi53a4S5oBNKzpzSIvj1qY88++AStXA/ZmQ=="
+  access_key              = "hTzXJL3wJewsQdPDgqw6ymdr3BQ2DOdcKcg17Jh9wyJLeE07AHVEi53a4S5oBNKzpzSIvj1qY88++AStXA/ZmQ=="
 
 
    }
