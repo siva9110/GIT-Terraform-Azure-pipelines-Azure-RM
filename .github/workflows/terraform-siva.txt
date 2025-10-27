@@ -1,4 +1,4 @@
-name: Terraform Deployment (Shiva Branch)
+name: Terraform Deployment (Siva Branch)
 
 on:
   push:
