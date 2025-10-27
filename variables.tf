@@ -107,4 +107,4 @@ variable "azurerm_virtual_network" {
   type = string
 
 }
->>>>>>> 90abaeee4bbcaac339bbc97fd4b1ae4f2068db35
+
