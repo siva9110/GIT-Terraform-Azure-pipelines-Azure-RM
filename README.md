@@ -1,2 +1,2 @@
-# GIT-Terraform-Azure-pipelines-Azure-RM
-GIT-Terraform-Azure-pipelines-Azure-RM
+# This git repo to deploy the azure resourcess to the Azure. 
+
