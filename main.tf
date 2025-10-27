@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 provider "azurerm" {
   features {}
 
@@ -38,7 +37,10 @@ resource "azurerm_subnet" "subnet-1" {
   address_prefixes     = ["10.0.5.0/24"]
   depends_on           = [azurerm_virtual_network.v-net]
 
-=======
+}
+
+
+
 provider "azurerm" {
   features {}
 
